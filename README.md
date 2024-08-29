@@ -24,4 +24,4 @@ Together, let's shape the future of geospatial technology!
 
 ---
 
-🌐 Visit our [website](https://suhora.com) | Follow us on [LinkedIn](https://twitter.com/suhora](https://www.linkedin.com/company/suhora/mycompany/) | 📧 Contact us at [support@suhora.com](mailto:support@suhora.com)
+🌐 Visit our [website](https://suhora.com) | Follow us on [LinkedIn](https://www.linkedin.com/company/suhora/mycompany/) | 📧 Contact us at [support@suhora.com](mailto:support@suhora.com)
