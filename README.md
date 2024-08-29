@@ -8,7 +8,7 @@ At Suhora, we are passionate about creating innovative geospatial solutions that
 
 - **SaaS Solutions:** Our platform offers a marketplace for geospatial data, helping users discover, purchase, and leverage high-quality spatial datasets for their projects.
 - **Custom Geospatial Applications:** We build tailored geospatial applications that cater to the unique needs of businesses and organizations, from visualization tools to advanced data processing platforms.
-- - **Geospatial Plugins:** We develop powerful QGIS plugins that integrate seamlessly with various databases, including ClickHouse and MongoDB (upcoming), allowing users to visualize and analyze spatial data with ease.
+- **Geospatial Plugins:** We develop powerful QGIS plugins that integrate seamlessly with various databases, including ClickHouse and MongoDB (upcoming), allowing users to visualize and analyze spatial data with ease.
 
 ## Our Values
 
